@@ -1,5 +1,5 @@
 '''
-    Author: Nikita Koloskov (IPT Ukraine
+    Author: Nikita Koloskov (for IPT Ukraine)
     
     This programs makes the model, that predicts
     the result of tossing the yut stick
@@ -8,6 +8,10 @@
     Parameters that could affect the result:
         - height
         - surface softness
+        - Length of stick
+        - Radius of stick
+        - Cutting angle
+        - Spin velocity
         
         
     Outputs:
